@@ -1,6 +1,7 @@
 # React Native Midtrans
 ### By https://dumbways.id (Ega Radiegtya)
-#### Originally Developed by my developer team @mucasali, and @pratamasetya
+#### Originally Developed by my developer team @mucasali (Muchamad Sahli), and @uadacid (Pratamasetya)
+#### This plugin already tested on Production at https://fifilio.com
 
 **React Native Midtrans** is module for applicate **Midtrans** Payment Gateway, its use Midtrans Mobile SDK.
 
@@ -39,6 +40,11 @@ There are four parties involved in the payment process for making a payment.
 
 # Installation
 * Install the module
+```
+npm i --save react-native-midtrans
+```
+or
+
 ```
 npm install --save git+https://github.com/radiegtya/react-native-midtrans.git
 ```
