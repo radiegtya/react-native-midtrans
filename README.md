@@ -66,7 +66,7 @@ repositories {
 ```
 
 # Usage
-Lets require `PaymentProject` module
+Lets require `react-native-midtrans` module
 
 ```
 import PaymentMidtrans from 'react-native-midtrans'

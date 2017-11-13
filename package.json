@@ -1,6 +1,6 @@
 {
   "name": "react-native-midtrans",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Ega Radiegtya. (Originally Developed by my team @mucasali)",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
