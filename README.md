@@ -51,7 +51,7 @@ npm install --save git+https://github.com/radiegtya/react-native-midtrans.git
 
 * Link the library
 ```
-react-native link PaymentProject
+react-native link react-native-midtrans
 ```
 
 * In your `android/build.gradle` add
