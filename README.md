@@ -69,7 +69,7 @@ repositories {
 Lets require `PaymentProject` module
 
 ```
-import PaymentMidtrans from 'PaymentProject'
+import PaymentMidtrans from 'react-native-midtrans'
 ```
 
 Checkout Payment
