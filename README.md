@@ -5,10 +5,10 @@
 
 **React Native Midtrans** is module for applicate **Midtrans** Payment Gateway, its use Midtrans Mobile SDK.
 
-PaymentProject enable merchant to accept online payments in React Native apps. it use user Interface Midtrans Mobile SDK for making transactions on all the payment types supported by Midtrans. Watch the [video](https://www.youtube.com/watch?v=EefsTMXCscg/) for the default module example.
+react-native-midtrans enable merchant to accept online payments in React Native apps. it use Midtrans Mobile user Interface SDK to make transactions on all the payment types supported by Midtrans. Watch the [video](https://www.youtube.com/watch?v=EefsTMXCscg/) for the default module example.
 
 There are four parties involved in the payment process for making a payment.
-1. Merhant Server : The merchat backand implementation
+1. Merchant Server : The merchant backand implementation
 2. Customers
 3. Midtrans Backend (Payment Procesor)
 4. PaymentProject
